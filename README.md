@@ -24,7 +24,7 @@ pip install ttkthemes
 ```
 
 ----------------------------------
-https://fatihonder.org.tr/python-ile-sistem-bilgisi-uygulamasi/
+https://fatihonder.org.tr/python-ile-url-disabler-url-engelleyici-uygulamasi/
 
 # Installation
 Install url_disabler
