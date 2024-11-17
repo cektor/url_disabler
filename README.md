@@ -71,7 +71,7 @@ pyinstaller --onefile --noconsole url.py
 # To run directly on Windows or Linux
 Download and Run According to Your Operating System from the Link
 
-https://github.com/cektor/System_info_GUI/releases/tag/1.0
+https://github.com/cektor/url_disabler/releases/tag/1.0
 
 
 # Windows Screenshot
