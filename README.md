@@ -1,3 +1,7 @@
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
+</a>
+
 # url_disabler
 GUI URL Blocking Application written in Python language. Cross Platform Interoperable URL Blocking and Unblocking
 
